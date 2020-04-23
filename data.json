@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "2",
+      "age": 32,
+      "name": "Frederick Mcgowan",
+      "email": "frederickmcgowan@twiggery.com"
+    },
+    {
+      "id": "3",
+      "age": 24,
+      "name": "Darlene Orr",
+      "email": "darleneorr@twiggery.com"
+    },
+    {
+      "id": "5",
+      "age": 29,
+      "name": "Chang Reed",
+      "email": "changreed@twiggery.com"
+    },
+    {
+      "id": "6",
+      "age": 34,
+      "name": "Guthrie Ellis",
+      "email": "guthrieellis@twiggery.com"
+    },
+    {
+      "id": "7",
+      "age": 38,
+      "name": "Greta Edwards",
+      "email": "gretaedwards@twiggery.com"
+    },
+    {
+      "id": "8",
+      "age": 22,
+      "name": "Vinson Ward",
+      "email": "vinsonward@twiggery.com"
+    },
+    {
+      "name": "Bhasanth",
+      "email": "bac@gmail.com",
+      "age": 25,
+      "id": "MBJQWTh"
+    }
+  ]
+}
