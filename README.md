@@ -1,2 +1,2 @@
 # CustomerBase-GraphQL
-A simple GraphQL server app that performs CRUD operations on JSO file from GraphiQL
+A simple GraphQL server app that performs CRUD operations on JSON file from GraphiQL
